@@ -1,6 +1,6 @@
 # eth-avax_project1
 
-# MyToken
+# function.sol
 
 This Repo is made for an Assessments for the eth-beginner project for Metacrafters. The purpose of this Repository is to showcase my knowledge and understanding of the smart contracts and especially, about creating my own Tokens,with mentioned requirements.
 
